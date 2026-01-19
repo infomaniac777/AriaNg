@@ -89,7 +89,7 @@
     padding-left: 20px;
 }
 
-.task-table .task-download-speed, .task-table .task-peer-download-speed {
+.task-table .task-download-speed, .task-table .task-upload-speed, .task-table .task-peer-download-speed {
     font-size: 12px;
 }
 
